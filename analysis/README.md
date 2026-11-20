@@ -2,7 +2,7 @@
 
 EDA and visualization part for the Predictive Maintenance project using the Wind Farm A SCADA dataset from [Kaggle](https://www.kaggle.com/datasets/azizkasimov/wind-turbine-scada-data-for-early-fault-detection/data).
 
-## File (`Wind_Turbine_EDA_Visualization.ipynb`)
+## File (`analysis.ipynb`)
 - Loads the dataset and merges event labels and turbine status names for analysis.
 - EDA: summary statistics, distributions, correlation heatmap, power curve, and group-by analysis.
 - Visualization: KPIs, monthly wind and power trends, turbine comparisons, temperature boxplots, and an interactive Plotly power curve.
